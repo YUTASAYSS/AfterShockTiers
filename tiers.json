@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "players": {
+    "Chad__007": {
+      "points": 350,
+      "overall": "HT3",
+      "rank": "Expert",
+      "region": "AS",
+      "modes": {
+        "sword": "LT3",
+        "axe": "HT3",
+        "nethop": "LT3",
+        "uhc": "UR",
+        "smp": "HT3",
+        "pot": "HT4",
+        "mace": "HT3",
+        "crystal": "LT4"
+      }
+    },
+
+    "ZENIXX_GG": {
+      "points": 270,
+      "overall": "HT3",
+      "rank": "Veteran",
+      "region": "AS",
+      "modes": {
+        "sword": "HT3",
+        "axe": "LT3",
+        "nethop": "HT3",
+        "uhc": "UR",
+        "smp": "UR",
+        "pot": "LT3",
+        "mace": "UR",
+        "crystal": "LT3"
+      }
+    },
+
+    "TheyCallMeVoxy_": {
+      "points": 250,
+      "overall": "LT3",
+      "rank": "Veteran",
+      "region": "AS",
+      "modes": {
+        "sword": "LT3",
+        "axe": "LT4",
+        "nethop": "LT3",
+        "uhc": "UR",
+        "smp": "UR",
+        "pot": "LT3",
+        "mace": "LT4",
+        "crystal": "HT4"
+      }
+    }
+  }
+}
